@@ -8,7 +8,7 @@ Data Analytics Group Project on financial consumer complaint from cfpb
 ## Preview Glance:
 ![Front page](https://github.com/evajryang/DataAnalyticsonFinancialConsumerComplaint/blob/main/presentation/page1.jpg)
 ![MachineLearningTechnique](https://github.com/evajryang/Econometrics-analysis/blob/main/presentation/financialconsumercomplaint_datamanipulation.jpg)
-![DecisionTreeRegressor](https://github.com/evajryang/Econometrics-analysis/blob/main/presentation/DecisionTreeRegressor.jpg)
+![DecisionTreeRegressor](https://github.com/evajryang/DataAnalyticsonFinancialConsumerComplaint/blob/main/presentation/DecisionTreeRegressor.jpg)
 ![DisputeRate&SchoolRate](https://github.com/evajryang/DataAnalyticsonFinancialConsumerComplaint/blob/main/presentation/Dispute%20Rate.jpg)
 ### Managerial Insights:
 - [x] To CFPB:
