@@ -7,5 +7,5 @@ Presentation link:
 https://github.com/evajryang/DataAnalyticsonFinancialConsumerComplaint/blob/main/presentation/Presentation.pdf
 
 
-![MachineLearningTechnique](https://github.com/evajryang/CurrecAlert/blob/master/Images/website%20main%20page.jpg)
+![MachineLearningTechnique](https://github.com/evajryang/Econometrics-analysis/blob/main/presentation/financialconsumercomplaint_datamanipulation.jpg)
 ![DecisionTreeRegressor](https://github.com/evajryang/Econometrics-analysis/blob/main/presentation/DecisionTreeRegressor.jpg)
